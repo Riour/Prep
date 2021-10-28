@@ -1,0 +1,16 @@
+.h1{
+    color: darkolivegreen;
+}
+.thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: darkseagreen;
+    padding: 50px;
+    border-color: deeppink;
+    border-width: 2px;
+    border-style: solid;
+}
+.spanId{
+    font-size: 25px;
+    margin: 50px;
+}
