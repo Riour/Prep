@@ -1,0 +1,9 @@
+* Variables: Imagina que una variable es un lugar donde puesdes almacenar algo, piensa que puede ser tu cajon donde guardas tu vestimenta.
+* Strings: Piensa que un Strign es un cajon donde puedes guardas cierto tipo de datos que en concreto son de tipo texto como "Nací en mil novescientos" ó "Nací en el 2000".
+* Funciones: Las funciones no son más que tareas especificas y que normalmente se repiten, por ejemplo imagina que todos los días llegas a saludar "Hola, como te encuentras el día de hoy?",pues bien puedes crear una función saludar y llamarle cada vez que la necesites.
+* Argumentos de funciones: Los argumentos de una función es lo que ella recibe para utilizarlo dentro de esta, por ejemplo si quieres saludar a Jefferson pues puedes llamar la función saludar que ya creaste y le envías el nombre.
+* return: Sencillamente es algo que te devuelve una función, si tu invocas la función saludar esperas que ella te de un resultado.
+* Declaraciones `if`: Una declaración if es hacer algo si la condición se cumple, por ejemplo, Condición: si tu jefe está en la oficina no saludas, entonces el resultado puede ser que esté, entonces no saludas o puede ser que no esté y entonces saludas a tus compañeros.  
+* Valores booleanos (`true`, `false`): Es un tipo de dato que puede ser verdadero o falso, llevandolo a un ejemplo podria ser como que si estas despierto es "true" y si estas dormido es "false", pero ten presente que no puedes estar despierto y dormido al mismo tiempo entonces es uno u otro.
+* `for`: Es un ciclo, es una tarea que se repite hasta que una condición no se cumpla, supón que te digo que debes decirme los números del 1 al 10, tu cerebro va realizar la misma tarea(decir un número) hasta que pienses que el que sigue es 11, el número es menor a 11(Condición). 
+* `&&`, `||`, `!` : Se les llama operadores lógicos, es decir que nos ayudar a determinar algo logicamente.
