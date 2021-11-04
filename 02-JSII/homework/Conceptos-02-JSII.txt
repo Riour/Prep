@@ -1,0 +1,6 @@
+* Arrays : Piensa que un array es un archivador donde puedes guardar elementos del mismo tipo.
+* Objetos : Puedes tomar el ejemplo del archivador pero ahora imagina que puedes guardar todos los elementos de una hoja de vida o curriculum.
+* Propiedades : Imagina que las propiedades de una hoja de vida pueden ser el nombre, edad, peso, dirreccón, fecha de nacimiento.. etc
+* Métodos: Un método puede parecerse mucho a una función, lo importante es que los métodos sirven para realizar acciones especificas como modificar propiedades de un objeto o tan solo mostrar un mensaje.
+* Bucle `for…in`: Es un ciclo y que lo hace es repetir una tarea mientras itera sobre las propiedades de un bojeto.
+* Notación de puntos vs notación de corchetes: La notación por puntos se utiliza para un identificador válido y por otro lado la notacion de corchetes se utiliza  cuando el identificador es una cadena.
