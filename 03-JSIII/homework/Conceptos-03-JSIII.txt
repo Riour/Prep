@@ -1,0 +1,2 @@
+* `prototype`: Es el lugar donde se centralizan los metodos de ese tipo.
+* _Constructors_ (de Clases): Es como una función que se crea dentro de una clase.
